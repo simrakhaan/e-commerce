@@ -32,7 +32,7 @@ const Footer = () => {
                     />
                   </svg>
                 </span>
-                685 Market Street,Las Vegas, LA 95820,United States.
+                KMC Workshop, Nishter Road, Karachi
               </li>
 
               <li>
@@ -61,7 +61,7 @@ const Footer = () => {
                       fill="#3C50E0"
                     />
                   </svg>
-                  (+099) 532-786-9843
+                  (+923) -205421692
                 </a>
               </li>
 
@@ -81,7 +81,7 @@ const Footer = () => {
                       fill="#3C50E0"
                     />
                   </svg>
-                  support@example.com
+                  shahrukhjaved459@gmail.com
                 </a>
               </li>
             </ul>
@@ -134,7 +134,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="#"
+                href="https://www.instagram.com/shahruk_javed_/"
                 aria-label="Instagram Social Link"
                 className="flex ease-out duration-200 hover:text-blue"
               >
@@ -169,7 +169,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="#"
+                href="https://www.linkedin.com/in/shahrukh-javed459/"
                 aria-label="Linkedin Social Link"
                 className="flex ease-out duration-200 hover:text-blue"
               >
@@ -253,7 +253,7 @@ const Footer = () => {
               </li>
               <li>
                 <a className="ease-out duration-200 hover:text-blue" href="#">
-                  FAQ’s
+                  FAQs
                 </a>
               </li>
               <li>
@@ -338,7 +338,7 @@ const Footer = () => {
         <div className="max-w-[1170px] mx-auto px-4 sm:px-8 xl:px-0">
           <div className="flex gap-5 flex-wrap items-center justify-between">
             <p className="text-dark font-medium">
-              &copy; {year}. All rights reserved by PimjoLabs.
+              &copy; {year}. All rights reserved by Intellibot Creation.
             </p>
 
             <div className="flex flex-wrap items-center gap-4">

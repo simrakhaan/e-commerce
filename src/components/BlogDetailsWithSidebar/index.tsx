@@ -45,31 +45,20 @@ const BlogDetailsWithSidebar = () => {
 
                 <h2 className="font-medium text-dark text-xl lg:text-2xl xl:text-custom-4xl mb-4">
                   What information is needed for shipping?
-                </h2>
+                 </h2>
 
-                <p className="mb-6">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer sit amet eros ac ipsum egestas dapibus. Vivamus
-                  gravida, ex non placerat tincidunt, lorem felis facilisis
-                  tellus, vitae bibendum purus felis eget tellus. In non rutrum
-                  ipsum. Morbi ut dui ante.
-                </p>
+        <p className="mb-6">
+          To ensure smooth and accurate shipping, we require specific details from our customers. Please provide the recipients full name, complete address (including city, state, and postal code), and a valid contact number.
+        </p>
 
-                <p className="mb-6">
-                  Nunc faucibus libero sem, quis placerat nisl pellentesque
-                  eget. Morbi porta velit ut leo sollicitudin, a faucibus purus
-                  faucibus. Maecenas mollis dui nec metus euismod, sed aliquam
-                  risus luctus.
-                </p>
+        <p className="mb-6">
+          Additionally, if you have any special delivery instructions or preferred delivery times, kindly include them. This helps us accommodate your needs and provide a seamless experience.
+        </p>
 
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis enim lobortis scelerisque fermentum. Neque sodales ut
-                  etiam sit amet. Ligula ullamcorper malesuada proin libero nunc
-                  consequat interdum varius. Quam pellentesque nec nam aliquam
-                  sem et tortor consequat.
-                </p>
+        <p>
+          For international shipments, ensure to include any necessary customs details, such as the recipients identification number (if required) and a clear description of the package contents. Accurate and detailed information ensures your shipment is processed efficiently and delivered on time.
+        </p>
+
 
                 <div className="mt-7.5">
                   <h3 className="font-medium text-dark text-lg xl:text-[26px] xl:leading-[34px] mb-6">
@@ -77,22 +66,17 @@ const BlogDetailsWithSidebar = () => {
                   </h3>
 
                   <ul className="list-disc pl-6">
-                    <li>Consectetur adipiscing elit in voluptate velit.</li>
-                    <li>Mattis vulputate cupidatat.</li>
-                    <li>
-                      Vulputate enim nulla aliquet porttitor odio pellentesque
-                    </li>
-                    <li>Ligula ullamcorper malesuada proin</li>
+                    <li>Provide the recipients full name and contact number.</li>
+                    <li>Ensure the complete and accurate shipping address is included.</li>
+                    <li>Include any special delivery instructions, if applicable.</li>
+                    <li>For international shipments, provide necessary customs details, such as a description of the package contents.</li>
                   </ul>
                 </div>
 
                 <div className="rounded-xl bg-white pt-7.5 pb-6 px-4 sm:px-7.5 my-7.5">
-                  <p className="italic text-dark text-center">
-                    ‘‘Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                    sed do eiusmod incididunt utionals labore et dolore magna
-                    aliqua quis fermentum,,
-                  </p>
-
+                <p className="italic text-dark text-center">
+                    Accurate shipping details ensure timely delivery and customer satisfaction. Provide all necessary information to make the process smooth and hassle-free.
+                </p>
                   <a
                     href="#"
                     className="flex items-center justify-center gap-3 mt-5.5"
@@ -114,34 +98,20 @@ const BlogDetailsWithSidebar = () => {
                 </div>
 
                 <p className="mb-6">
-                  consectetur adipiscing elit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  mattis vulputate cupidatat.
+                    Shipping is a crucial process that requires accurate information to ensure timely and error-free delivery. Always double-check the provided details to avoid delays.
                 </p>
 
                 <p className="mb-6">
-                  Nunc faucibus libero sem, quis placerat nisl pellentesque
-                  eget. Morbi porta velit ut leo sollicitudin, a faucibus purus
-                  faucibus. Maecenas mollis dui nec metus euismod, sed aliquam
-                  risus luctus.
+                    The recipients name, complete address, and a valid contact number are essential for processing the shipment. For businesses, including a company name can be helpful.
                 </p>
 
-                <p className="mb-6">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis enim lobortis scelerisque fermentum. Neque sodales ut
-                  etiam sit amet. Ligula ullamcorper malesuada proin libero nunc
-                  consequat interdum varius. Quam pellentesque nec nam aliquam
-                  sem et tortor consequat.
-                </p>
+              <p className="mb-6">
+                  For international shipments, additional information such as customs declarations, a description of package contents, and any required identification numbers must be provided to ensure smooth customs clearance.
+              </p>
 
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer sit amet eros ac ipsum egestas dapibus. Vivamus
-                  gravida, ex non placerat tincidunt, lorem felis facilisis
-                  tellus, vitae bibendum purus felis eget tellus. In non rutrum
-                  ipsum. Morbi ut dui ante.
-                </p>
+              <p>
+                  If you have specific delivery preferences, such as a preferred delivery window or location instructions, include these details to help streamline the shipping process. Clear and complete information ensures your package reaches its destination without hassle.
+              </p>
 
                 <div className="flex flex-wrap items-center justify-between gap-10 mt-10">
                   <div className="flex flex-wrap items-center gap-5">

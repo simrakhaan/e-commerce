@@ -41,9 +41,9 @@ const HeroCarousal = () => {
               <a href="#">True Wireless Noise Cancelling Headphone</a>
             </h1>
 
-            <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ipsum at risus euismod lobortis in
-            </p>
+        <p>
+              Experience immersive sound with our True Wireless Noise Cancelling Headphones. Designed for crystal-clear audio and exceptional comfort, they are perfect for music lovers and professionals on the go.
+        </p>
 
             <a
               href="#"
@@ -83,8 +83,7 @@ const HeroCarousal = () => {
             </h1>
 
             <p>
-              Lorem ipsum dolor sit, consectetur elit nunc suscipit non ipsum
-              nec suscipit.
+              Discover unparalleled sound quality with our True Wireless Noise Cancelling Headphones. Engineered to deliver premium audio performance, they combine cutting-edge technology with a sleek, comfortable design.
             </p>
 
             <a
