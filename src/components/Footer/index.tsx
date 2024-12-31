@@ -32,7 +32,7 @@ const Footer = () => {
                     />
                   </svg>
                 </span>
-                KMC Workshop, Nishter Road, Karachi
+                jinnah medical, Karachi
               </li>
 
               <li>
@@ -61,7 +61,7 @@ const Footer = () => {
                       fill="#3C50E0"
                     />
                   </svg>
-                  (+923) -205421692
+                  (+923)-4589065
                 </a>
               </li>
 
@@ -81,7 +81,7 @@ const Footer = () => {
                       fill="#3C50E0"
                     />
                   </svg>
-                  shahrukhjaved459@gmail.com
+                  khansimra652@gmail.com
                 </a>
               </li>
             </ul>
@@ -134,7 +134,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://www.instagram.com/shahruk_javed_/"
+                href="https://www.instagram.com/simrakhan/"
                 aria-label="Instagram Social Link"
                 className="flex ease-out duration-200 hover:text-blue"
               >
@@ -169,7 +169,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/shahrukh-javed459/"
+                href="https://www.linkedin.com/in/simra-khan-2641a72b5"
                 aria-label="Linkedin Social Link"
                 className="flex ease-out duration-200 hover:text-blue"
               >
